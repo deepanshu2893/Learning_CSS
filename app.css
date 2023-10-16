@@ -1,11 +1,15 @@
 h2 {
-    color: blue;
+    color: #5Fcffc;
+    background-color: plum;
+
 }
 
 button {
     color: green;
+    background-color: cyan;
 }
 
 p {
     color: purple;
+    background: orange;
 }
