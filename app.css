@@ -1,15 +1,17 @@
-h2 {
-    color: #5Fcffc;
-    background-color: plum;
+h2 {}
 
-}
-
-button {
-    color: green;
-    background-color: cyan;
-}
+button {}
 
 p {
-    color: purple;
-    background: orange;
+
+    line-height: 2;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-weight: 100;
+    text-decoration: underline wavy;
+    letter-spacing: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
