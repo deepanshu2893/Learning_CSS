@@ -41,6 +41,15 @@ footer a {
     color: red;
 }
 
-input+button {
-    background-color: pink;
+h2+button {
+    font-size: 20px;
+    background-color: magenta;
+}
+
+footer>a {
+    color: purple;
+}
+
+input [type="password"] {
+    color: green;
 }
