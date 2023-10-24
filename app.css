@@ -50,6 +50,10 @@ footer>a {
     color: purple;
 }
 
-input [type="password"] {
-    color: green;
+input[type="password"] {
+    color: blue;
+}
+
+section[class="post"] {
+    background-color: purple;
 }
