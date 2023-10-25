@@ -73,3 +73,11 @@ a:hover {
     text-decoration: underline;
 
 }
+
+.post button:active {
+    background-color: green;
+}
+
+.post:nth-of-type(2n) {
+    background-color: #e63946;
+}
