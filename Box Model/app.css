@@ -1,0 +1,39 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #a2d2ff;
+}
+
+h1 {
+    background-color: yellow;
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+    /* margin-bottom: 0px; */
+}
+
+#one {
+    background-color: pink;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    /* box-sizing: border-box; */
+    margin-left: 100px;
+}
+
+#two {
+    background-color: aqua;
+    border-color: #dda15e;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-color: blue;
+    padding-left: 50px;
+
+}
+
+#three {
+    background-color: grey;
+    border: 4px solid black;
+    border-left-style: dotted;
+    border-radius: 500%;
+}
